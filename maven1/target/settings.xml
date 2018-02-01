@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app_settings>
+  <source_json_file>C:\\proj\\maven1\\src\\main\\java\\data\\events.json</source_json_file>
+  <app_loaded_parquet>C:\\proj\\maven1\\src\\main\\java\\data\\app_loaded.parquet</app_loaded_parquet>
+  <registered_parquet>C:\\proj\\maven1\\src\\main\\java\\data\\registred.parquet</registered_parquet>
+</app_settings>
